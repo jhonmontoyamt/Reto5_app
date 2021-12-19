@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Smile</string>
+    <string name="txt_Codigo">Código del producto</string>
+    <string name="txt_Descripcion">Descripción del producto</string>
+    <string name="txt_Precio">Precio del producto</string>
+    <string name="BotonRegistrar">Registrar Producto</string>
+    <string name="BotonBuscar">Buscar Producto</string>
+    <string name="BotonEliminar">Eliminar Producto</string>
+    <string name="BotonModificar">Modificar Producto</string>
+</resources>
